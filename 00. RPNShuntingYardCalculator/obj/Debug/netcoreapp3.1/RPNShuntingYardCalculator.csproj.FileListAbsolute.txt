@@ -1,0 +1,13 @@
+C:\Users\BA\source\repos\VariousProjects\RPNShuntingYardCalculator\bin\Debug\netcoreapp3.1\RPNShuntingYardCalculator.exe
+C:\Users\BA\source\repos\VariousProjects\RPNShuntingYardCalculator\bin\Debug\netcoreapp3.1\RPNShuntingYardCalculator.deps.json
+C:\Users\BA\source\repos\VariousProjects\RPNShuntingYardCalculator\bin\Debug\netcoreapp3.1\RPNShuntingYardCalculator.runtimeconfig.json
+C:\Users\BA\source\repos\VariousProjects\RPNShuntingYardCalculator\bin\Debug\netcoreapp3.1\RPNShuntingYardCalculator.runtimeconfig.dev.json
+C:\Users\BA\source\repos\VariousProjects\RPNShuntingYardCalculator\bin\Debug\netcoreapp3.1\RPNShuntingYardCalculator.dll
+C:\Users\BA\source\repos\VariousProjects\RPNShuntingYardCalculator\bin\Debug\netcoreapp3.1\RPNShuntingYardCalculator.pdb
+C:\Users\BA\source\repos\VariousProjects\RPNShuntingYardCalculator\obj\Debug\netcoreapp3.1\RPNShuntingYardCalculator.csprojAssemblyReference.cache
+C:\Users\BA\source\repos\VariousProjects\RPNShuntingYardCalculator\obj\Debug\netcoreapp3.1\RPNShuntingYardCalculator.AssemblyInfoInputs.cache
+C:\Users\BA\source\repos\VariousProjects\RPNShuntingYardCalculator\obj\Debug\netcoreapp3.1\RPNShuntingYardCalculator.AssemblyInfo.cs
+C:\Users\BA\source\repos\VariousProjects\RPNShuntingYardCalculator\obj\Debug\netcoreapp3.1\RPNShuntingYardCalculator.csproj.CoreCompileInputs.cache
+C:\Users\BA\source\repos\VariousProjects\RPNShuntingYardCalculator\obj\Debug\netcoreapp3.1\RPNShuntingYardCalculator.dll
+C:\Users\BA\source\repos\VariousProjects\RPNShuntingYardCalculator\obj\Debug\netcoreapp3.1\RPNShuntingYardCalculator.pdb
+C:\Users\BA\source\repos\VariousProjects\RPNShuntingYardCalculator\obj\Debug\netcoreapp3.1\RPNShuntingYardCalculator.genruntimeconfig.cache
