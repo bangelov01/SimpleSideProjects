@@ -1,9 +1,0 @@
-C:\Users\BA\source\repos\SimpleSnakeGame\SnakeGame\bin\Release\SnakeGame.exe.config
-C:\Users\BA\source\repos\SimpleSnakeGame\SnakeGame\bin\Release\SnakeGame.exe
-C:\Users\BA\source\repos\SimpleSnakeGame\SnakeGame\bin\Release\SnakeGame.pdb
-C:\Users\BA\source\repos\SimpleSnakeGame\SnakeGame\obj\Release\SnakeGame.Form1.resources
-C:\Users\BA\source\repos\SimpleSnakeGame\SnakeGame\obj\Release\SnakeGame.Properties.Resources.resources
-C:\Users\BA\source\repos\SimpleSnakeGame\SnakeGame\obj\Release\SnakeGame.csproj.GenerateResource.cache
-C:\Users\BA\source\repos\SimpleSnakeGame\SnakeGame\obj\Release\SnakeGame.csproj.CoreCompileInputs.cache
-C:\Users\BA\source\repos\SimpleSnakeGame\SnakeGame\obj\Release\SnakeGame.exe
-C:\Users\BA\source\repos\SimpleSnakeGame\SnakeGame\obj\Release\SnakeGame.pdb
